@@ -2,6 +2,10 @@
 
 An UEFI app created for my System Software university classes.
 
+# Game Screenshot
+
+![game screenshot](https://github.com/user-attachments/assets/24436ade-a89f-4149-b900-5c0ef304717d)
+
 # Running
 
 To run the compile.sh script you need the following dependecies:
