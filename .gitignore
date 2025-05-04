@@ -1,0 +1,8 @@
+BOOTX64.efi
+gnu-efi
+mkgpt
+fat.img
+hdimage.bin
+main.o
+main.so
+OVMF.fd
